@@ -1,0 +1,12 @@
+{
+  "name": "@code-therapy/electron-preload-remote-too-soon",
+  "version": "1.0.0",
+  "author": "Saleh Abdel Motaal <saleh@grasppe.com>",
+  "dependencies": {
+    "electron": "2.0.0-beta.4"
+  },
+  "main": "main.js",
+  "publishConfig": {
+    "access": "public"
+  }
+}
